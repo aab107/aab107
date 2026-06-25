@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @aab107
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Дашборд по анализу продаж и логистики в Power BI
 
-<!---
-aab107/aab107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Интерактивный аналитический отчет на основе данных Superstore.
+
+## 🛠️ Что реализовано в проекте:
+* Построена модель данных на основе CSV-файла.
+* Разработаны ключевые бизнес-метрики (Сумма продаж, Сумма прибыли, Коэффициент прибыли).
+* Оптимизирован дизайн: настроены карточки KPI с отступами, добавлены срезы и интерактивные кнопки сброса фильтров.
+* Интегрировано Древо декомпозиции для быстрого поиска причин изменения показателей.
+
+## 📁 Как изучить проект:
+Скачайте файл `ДЗ5.pbix` из этого репозитория и откройте его в Power BI Desktop.
